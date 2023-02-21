@@ -20,6 +20,6 @@ FirstApp.propTypes = {
 // entran antes que el porptypes
 FirstApp.defaultProps = {
     name: "Carlota",
-    title : 'No hay titulo',
-    subtitle : 'No hay subtitulo'
+    title : 'No hay título',
+    subtitle : 'No hay subtítulo'
 }
