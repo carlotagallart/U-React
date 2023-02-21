@@ -22,4 +22,5 @@ describe('Pruebas en <FirstApp />', () => {
         const { getAllByText } = render( <FirstApp title={title} subtitle={subTitle}/>);
         expect( getAllByText(subTitle).length ).toBe(1)
      })
+
  })
